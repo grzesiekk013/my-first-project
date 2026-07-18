@@ -55,7 +55,7 @@ In parallel, I dove deep into multiplayer game scripting by hosting my own Multi
 ### **The Code in Numbers:** To truly understand the brute-force nature of this architecture, here is the exact count of the only three commands I relied on to build the entire 4,800-line environment:
   *   **`ECHO`:** **1643** times (used to manually render every single UI element, borders, and text-mode graphics).
   *   **`SET`:** **1343** times (my makeshift memory management, global state tracking, and variable storage).
-  *   **`GOTO`:** **613** times (the entire control flow engine—serving as loops, functions, and asynchronous jumps).
+  *   **`GOTO`:** **613** times (the entire control flow engine serving as loops, functions, and asynchronous jumps).
   
 ---  
   
