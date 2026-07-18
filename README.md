@@ -2,7 +2,7 @@
 
 Welcome to my digital museum. This repository contains a standalone, fully playable **Snake game** written entirely in Windows Batch (`.bat`). 
 
-However, this game wasn't built in isolation. It is a fully functional component extracted from a massive childhood project called **"Komputer"**—a (about 4500 Lines of code) monolithic text-based Operating System simulation that I designed and programmed when I was **15–16 years old** (2017-2018).
+However, this game wasn't built in isolation. It is a fully functional component extracted from a massive childhood project called **"Komputer"**-a (about 4500 Lines of code) monolithic text-based Operating System simulation that I designed and programmed when I was **15–16 years old** (2017-2018).
 
 ---
 
