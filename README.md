@@ -41,7 +41,7 @@ Since this is pure Windows Batch, it requires zero installation or runtime confi
 ---
 
 ## The Evolution
-This repository lives here as a benchmark of my engineering journey. It represents the transition from raw, instinctive, brute-force hacking as a teenager to my current professional focus on **Modern C++ (C++20), Clean Python Architecture, and robust Real-Time Systems**.
+This repository lives here as a benchmark of my engineering journey. It represents the transition from raw, instinctive, brute-force hacking as a teenager to my current professional focus on **Modern C++, Clean Python Architecture, and robust Real-Time Systems**.
 
 ---
 
