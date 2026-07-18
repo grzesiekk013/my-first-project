@@ -55,27 +55,27 @@ This repository lives here as a benchmark of my engineering journey. It represen
   
 ---  
   
-## System Loading
-<p style="center"><img width="726" height="546" alt="image" src="https://github.com/user-attachments/assets/55c2df8e-ca4d-4c49-917a-5d62c0baff0c" /></p>
-## Logging In
-<p style="center"><img width="731" height="546" alt="image" src="https://github.com/user-attachments/assets/7f806f39-7bc4-4db5-97e9-82128a945d34" /></p>
-## Main Menu Page 1
-<p style="center"><img width="602" height="475" alt="image" src="https://github.com/user-attachments/assets/a5940339-3494-40c2-bc82-d9dc7e765bcd" /></p>
-## Main Menu Page 2
-<p style="center"><img width="604" height="468" alt="image" src="https://github.com/user-attachments/assets/cfcaac1e-8c9a-4dee-9bbd-d0b903423380" /></p>
-## Main Menu Page 3
-<p style="center"><img width="601" height="466" alt="image" src="https://github.com/user-attachments/assets/5d01163a-9c49-40ec-99ae-006b4658b958" /></p>
-### Paint Like Application
-<p style="center"><img width="602" height="466" alt="image" src="https://github.com/user-attachments/assets/b40cfca5-7357-4101-9899-5b2c3dda2222" /></p>
-## My First Calculator
-<p style="center"><img width="606" height="469" alt="image" src="https://github.com/user-attachments/assets/20d2e2ed-00a6-4419-9611-7abc347bb5e3" /></p>
-## Private Catalog
-<p style="center"><img width="605" height="467" alt="image" src="https://github.com/user-attachments/assets/1d6d7e1d-4535-4ade-ab51-fc52c735a67c" /></p>
-## Diary 
-<p style="center"><img width="579" height="261" alt="image" src="https://github.com/user-attachments/assets/a11d40ab-7f14-4796-98d4-82c4ebcc3739" /></p>
-## Snake Computer Version
-<p style="center"><img width="641" height="450" alt="image" src="https://github.com/user-attachments/assets/8803626f-93cb-4418-b8de-cca48c025178" /></p>
-  
+## System Loading  
+<p style="center"><img width="726" height="546" alt="image" src="https://github.com/user-attachments/assets/55c2df8e-ca4d-4c49-917a-5d62c0baff0c" /></p>  
+## Logging In  
+<p style="center"><img width="731" height="546" alt="image" src="https://github.com/user-attachments/assets/7f806f39-7bc4-4db5-97e9-82128a945d34" /></p>  
+## Main Menu Page 1  
+<p style="center"><img width="602" height="475" alt="image" src="https://github.com/user-attachments/assets/a5940339-3494-40c2-bc82-d9dc7e765bcd" /></p>  
+## Main Menu Page 2  
+<p style="center"><img width="604" height="468" alt="image" src="https://github.com/user-attachments/assets/cfcaac1e-8c9a-4dee-9bbd-d0b903423380" /></p>  
+## Main Menu Page 3  
+<p style="center"><img width="601" height="466" alt="image" src="https://github.com/user-attachments/assets/5d01163a-9c49-40ec-99ae-006b4658b958" /></p>  
+### Paint Like Application  
+<p style="center"><img width="602" height="466" alt="image" src="https://github.com/user-attachments/assets/b40cfca5-7357-4101-9899-5b2c3dda2222" /></p>  
+## My First Calculator  
+<p style="center"><img width="606" height="469" alt="image" src="https://github.com/user-attachments/assets/20d2e2ed-00a6-4419-9611-7abc347bb5e3" /></p>  
+## Private Catalog  
+<p style="center"><img width="605" height="467" alt="image" src="https://github.com/user-attachments/assets/1d6d7e1d-4535-4ade-ab51-fc52c735a67c" /></p>  
+## Diary  
+<p style="center"><img width="579" height="261" alt="image" src="https://github.com/user-attachments/assets/a11d40ab-7f14-4796-98d4-82c4ebcc3739" /></p>  
+## Snake Computer Version   
+<p style="center"><img width="641" height="450" alt="image" src="https://github.com/user-attachments/assets/8803626f-93cb-4418-b8de-cca48c025178" /></p>  
+   
 ---  
   
 ## Computer Source Code Screenshots
