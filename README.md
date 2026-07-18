@@ -47,8 +47,10 @@ This repository lives here as a benchmark of my engineering journey. It represen
 
 ## Gallery
 ## Snake Shared Version - Menu
-<img width="974" height="733" alt="image" src="https://github.com/user-attachments/assets/e4f94020-b424-4c86-8548-950d1ee99265" />
-## Shane Shared Version - Gameplay
+<img width="974" height="733" alt="image" src="https://github.com/user-attachments/assets/e4f94020-b424-4c86-8548-950d1ee99265" />  
+
+## Snake Shared Version - Gameplay  
+  
 <p style="center">
 <img width="978" height="649" alt="image" src="https://github.com/user-attachments/assets/3cbc86ca-de52-48cc-9746-7eb8991c5a76" />
 </p>
