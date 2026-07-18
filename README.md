@@ -45,6 +45,13 @@ This repository lives here as a benchmark of my engineering journey. It represen
 
 ---
 
+## Trivia: File Sharing, Hamachi Servers & Early Job Offers
+The "Komputer" project and the Snake module were shared directly as files with my friends so they could run them locally and test them out just for fun. 
+
+In parallel, I dove deep into multiplayer game scripting by hosting my own Multi Theft Auto (MTA:SA) servers for GTA San Andreas, making them accessible to friends via **LogMeIn Hamachi**. This is where I taught myself **Lua** by reverse-engineering existing scripts and writing custom client-side and server-side logic. This multiplayer development track grew so much that I actually started receiving my **very first job offers** as a teenager (though I didn't accept them at the time), long before I ever had any formal engineering education.
+  
+---
+  
 ## Gallery
 ## Snake Shared Version - Menu
 <img width="974" height="733" alt="image" src="https://github.com/user-attachments/assets/e4f94020-b424-4c86-8548-950d1ee99265" />  
