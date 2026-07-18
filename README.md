@@ -56,37 +56,66 @@ This repository lives here as a benchmark of my engineering journey. It represen
 ---  
   
 ## System Loading  
-<p style="center"><img width="726" height="546" alt="image" src="https://github.com/user-attachments/assets/55c2df8e-ca4d-4c49-917a-5d62c0baff0c" /></p>  
+<p align="center">
+  <img width="726" height="546" alt="System Loading" src="https://github.com/user-attachments/assets/55c2df8e-ca4d-4c49-917a-5d62c0baff0c" />
+</p>
+
 ## Logging In  
-<p style="center"><img width="731" height="546" alt="image" src="https://github.com/user-attachments/assets/7f806f39-7bc4-4db5-97e9-82128a945d34" /></p>  
+<p align="center">
+  <img width="731" height="546" alt="Logging In" src="https://github.com/user-attachments/assets/7f806f39-7bc4-4db5-97e9-82128a945d34" />
+</p>
+
 ## Main Menu Page 1  
-<p style="center"><img width="602" height="475" alt="image" src="https://github.com/user-attachments/assets/a5940339-3494-40c2-bc82-d9dc7e765bcd" /></p>  
+<p align="center">
+  <img width="602" height="475" alt="Main Menu Page 1" src="https://github.com/user-attachments/assets/a5940339-3494-40c2-bc82-d9dc7e765bcd" />
+</p>
+
 ## Main Menu Page 2  
-<p style="center"><img width="604" height="468" alt="image" src="https://github.com/user-attachments/assets/cfcaac1e-8c9a-4dee-9bbd-d0b903423380" /></p>  
+<p align="center">
+  <img width="604" height="468" alt="Main Menu Page 2" src="https://github.com/user-attachments/assets/cfcaac1e-8c9a-4dee-9bbd-d0b903423380" />
+</p>
+
 ## Main Menu Page 3  
-<p style="center"><img width="601" height="466" alt="image" src="https://github.com/user-attachments/assets/5d01163a-9c49-40ec-99ae-006b4658b958" /></p>  
+<p align="center">
+  <img width="601" height="466" alt="Main Menu Page 3" src="https://github.com/user-attachments/assets/5d01163a-9c49-40ec-99ae-006b4658b958" />
+</p>
+
 ### Paint Like Application  
-<p style="center"><img width="602" height="466" alt="image" src="https://github.com/user-attachments/assets/b40cfca5-7357-4101-9899-5b2c3dda2222" /></p>  
+<p align="center">
+  <img width="602" height="466" alt="Paint Like Application" src="https://github.com/user-attachments/assets/b40cfca5-7357-4101-9899-5b2c3dda2222" />
+</p>
+
 ## My First Calculator  
-<p style="center"><img width="606" height="469" alt="image" src="https://github.com/user-attachments/assets/20d2e2ed-00a6-4419-9611-7abc347bb5e3" /></p>  
+<p align="center">
+  <img width="606" height="469" alt="My First Calculator" src="https://github.com/user-attachments/assets/20d2e2ed-00a6-4419-9611-7abc347bb5e3" />
+</p>
+
 ## Private Catalog  
-<p style="center"><img width="605" height="467" alt="image" src="https://github.com/user-attachments/assets/1d6d7e1d-4535-4ade-ab51-fc52c735a67c" /></p>  
+<p align="center">
+  <img width="605" height="467" alt="Private Catalog" src="https://github.com/user-attachments/assets/1d6d7e1d-4535-4ade-ab51-fc52c735a67c" />
+</p>
+
 ## Diary  
-<p style="center"><img width="579" height="261" alt="image" src="https://github.com/user-attachments/assets/a11d40ab-7f14-4796-98d4-82c4ebcc3739" /></p>  
-## Snake Computer Version   
-<p style="center"><img width="641" height="450" alt="image" src="https://github.com/user-attachments/assets/8803626f-93cb-4418-b8de-cca48c025178" /></p>  
-   
+<p align="center">
+  <img width="579" height="261" alt="Diary" src="https://github.com/user-attachments/assets/a11d40ab-7f14-4796-98d4-82c4ebcc3739" />
+</p>
+
+## Snake Computer Version  
+<p align="center">
+  <img width="641" height="450" alt="Snake Computer Version" src="https://github.com/user-attachments/assets/8803626f-93cb-4418-b8de-cca48c025178" />
+</p>
+
 ---  
-  
+
 ## Computer Source Code Screenshots
-<p style="center">
-<img width="899" height="944" alt="image" src="https://github.com/user-attachments/assets/03908c90-5618-4c42-9580-ccd9113f634e" />
-<img width="796" height="940" alt="image" src="https://github.com/user-attachments/assets/74748a6f-f4e9-4a7c-bd71-3e7227f08866" />
-<img width="791" height="938" alt="image" src="https://github.com/user-attachments/assets/f48febf2-f9bf-4adc-9d53-60ffa816154d" />
-<img width="802" height="936" alt="image" src="https://github.com/user-attachments/assets/89ba641c-88ea-4b63-a597-fb4d7e55a71b" />
-<img width="788" height="927" alt="image" src="https://github.com/user-attachments/assets/e10eac62-e0d0-434a-83f3-c07d5833fa5d" />
-<img width="796" height="940" alt="image" src="https://github.com/user-attachments/assets/dced719a-f411-4d88-96a8-b554046c6636" />
-<img width="784" height="913" alt="image" src="https://github.com/user-attachments/assets/1876a57f-db8c-455b-93ab-731c1721cd80" />
-<img width="797" height="932" alt="image" src="https://github.com/user-attachments/assets/e4e285b2-e353-4039-a637-638998f570f0" />
-<img width="788" height="938" alt="image" src="https://github.com/user-attachments/assets/af78f4ce-9a6b-4ff3-a3db-ec3625d33945" />
+<p align="center">
+  <img width="899" height="944" alt="Source Code 1" src="https://github.com/user-attachments/assets/03908c90-5618-4c42-9580-ccd9113f634e" /><br/><br/>
+  <img width="796" height="940" alt="Source Code 2" src="https://github.com/user-attachments/assets/74748a6f-f4e9-4a7c-bd71-3e7227f08866" /><br/><br/>
+  <img width="791" height="938" alt="Source Code 3" src="https://github.com/user-attachments/assets/f48febf2-f9bf-4adc-9d53-60ffa816154d" /><br/><br/>
+  <img width="802" height="936" alt="Source Code 4" src="https://github.com/user-attachments/assets/89ba641c-88ea-4b63-a597-fb4d7e55a71b" /><br/><br/>
+  <img width="788" height="927" alt="Source Code 5" src="https://github.com/user-attachments/assets/e10eac62-e0d0-434a-83f3-c07d5833fa5d" /><br/><br/>
+  <img width="796" height="940" alt="Source Code 6" src="https://github.com/user-attachments/assets/dced719a-f411-4d88-96a8-b554046c6636" /><br/><br/>
+  <img width="784" height="913" alt="Source Code 7" src="https://github.com/user-attachments/assets/1876a57f-db8c-455b-93ab-731c1721cd80" /><br/><br/>
+  <img width="797" height="932" alt="Source Code 8" src="https://github.com/user-attachments/assets/e4e285b2-e353-4039-a637-638998f570f0" /><br/><br/>
+  <img width="788" height="938" alt="Source Code 9" src="https://github.com/user-attachments/assets/af78f4ce-9a6b-4ff3-a3db-ec3625d33945" />
 </p>
